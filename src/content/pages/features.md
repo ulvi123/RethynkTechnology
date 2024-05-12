@@ -24,7 +24,7 @@ content_blocks:
     description: From custom software development to international exchange programs, we are here for you.
 
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-one.png
+    image: /images/feature/agency.svg
     image_alt: Message inbox
     title: Full-stack software Agency
     description: In today's fast changing world, only visually appealing and functional products stand out. Don't let your idea to be scraped out by poor execution.
@@ -34,7 +34,7 @@ content_blocks:
     reversed: false
 
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-two.png
+    image: /images/feature/travel.jpg
     image_alt: Visitor chart
     title: Change the world by traveling it
     description: Our custom-tailored business and executive international programs helps companies and individuals not only learn the trendy skills but also spent some nice time with their foreign counterparts.
@@ -44,7 +44,7 @@ content_blocks:
     reversed: true
 
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-three.png
+    image: /images/feature/school.svg
     image_alt: Upload box
     title: Reimagining the education and startup building process
     description: Our newest brand called "PivotHouse" is a unique place to learn,practice, build network and try things that cant be done at university or school. It is only for those with clear goals for the future.

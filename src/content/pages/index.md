@@ -11,11 +11,11 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: Creating the best user experience you ever had
+    title: Infusing your products with the unique touch of Estonian expertise.
     description: >-
       At Rethynk, the innovation is key to us. We work closely with our customers
       to transition the hardest problems into real-world solutions.
-    image: /images/hero/hero-image-2.png
+    image: /images/hero/team.svg
     image_alt: Reports dashboard
     button:
       text: Talk to our Founders
@@ -55,7 +55,7 @@ content_blocks:
     description: >-
       Our platform offers the most advanced services including product development, startup exchange programs, and company unique products such as Tech School and Voxpal.
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-one.png
+    image: /images/feature/software..jpg
     image_alt: Message inbox
     title: Full-cycle Boutique Software Development Agency for startups
     description: >-
@@ -65,7 +65,7 @@ content_blocks:
       text: Got hooked? Talk to us
     reversed: false
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-two.png
+    image: /images/feature/business.jpg
     image_alt: Visitor chart
     title: International Business and Startup Exchange Programs
     description: >-
@@ -75,7 +75,7 @@ content_blocks:
       text: Talk to us
     reversed: true
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-three.png
+    image: /images/feature/pivot house.svg
     image_alt: File upload
     title: PivotHouse - built by founders for founders
     description: >-

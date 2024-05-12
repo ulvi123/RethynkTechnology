@@ -58,7 +58,7 @@ content_blocks:
     video:
       image: /images/works/banner.jpg
       image_alt: Thumbnail image for video
-      link: https://vimeo.com/45830194
+      link: /images/works/video.mp4
 
   - _bookshop_name: about/team
     title: Our leadership team
@@ -80,13 +80,13 @@ content_blocks:
 
       - name: Chingiz Huseynzade
         designation: Lead Android Developer
-        image: /images/team/4.jpg
+        image: /images/team/Chingiz.jpeg
         image_alt: "Team member: Zachary Arias"
 
-      - name: Farid Ahmadli
-        designation: Advisor(SDE II @ Microsoft, ex-Amazon)
-        image: /images/team/5.jpg
-        image_alt: "Team member: Harmony Dunlop"
+      # - name: Farid Ahmadli
+      #   designation: Advisor(SDE II @ Microsoft, ex-Amazon)
+      #   image: /images/team/5.jpg
+      #   image_alt: "Team member: Harmony Dunlop"
 
       # - name: Elize Schwartz
       #   designation: CRO
