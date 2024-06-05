@@ -71,7 +71,7 @@ content_blocks:
       - name: Kanan Hasanov
         designation: Co-founder and Business Development Exec
         image: /images/team/kanan.jpeg
-        image_alt: "Team member: Keiren Mcculloch"
+        image_alt: "Team member: Kanan Hasanov"
 
       - name: Tarmo Virki
         designation: Co-founder and Head of Media and Comms
@@ -81,7 +81,7 @@ content_blocks:
       - name: Chingiz Huseynzade
         designation: Lead Android Developer
         image: /images/team/Chingiz.jpeg
-        image_alt: "Team member: Zachary Arias"
+        image_alt: "Team member: Chingiz Huseynzadeh"
 
       # - name: Farid Ahmadli
       #   designation: Advisor(SDE II @ Microsoft, ex-Amazon)
