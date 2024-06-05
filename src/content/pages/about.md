@@ -78,10 +78,10 @@ content_blocks:
         image: /images/team/Tarmo.png
         image_alt: "Team member: Piers Reyes"
 
-      - name: Chingiz Huseynzade
-        designation: Lead Android Developer
-        image: /images/team/Chingiz.jpeg
-        image_alt: "Team member: Chingiz Huseynzadeh"
+      # - name: Chingiz Huseynzade
+      #   designation: Lead Android Developer
+      #   image: /images/team/Chingiz.jpeg
+      #   image_alt: "Team member: Chingiz Huseynzadeh"
 
       # - name: Farid Ahmadli
       #   designation: Advisor(SDE II @ Microsoft, ex-Amazon)
