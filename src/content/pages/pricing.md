@@ -23,7 +23,7 @@ content_blocks:
         has_discount: false
         discount_price: 0
         features:
-          - item: 5+ Dynamic Websites
+          - item: 3+ Dynamic Websites
             active_feature: true
           - item:  Casual Support
             active_feature: true
@@ -52,7 +52,7 @@ content_blocks:
         has_discount: true
         discount_price: 5599
         features:
-          - item: 3 Dynamic Website
+          - item: 6 Dynamic Website
             active_feature: true
           - item:  On-demand Call-Center
             active_feature: true
