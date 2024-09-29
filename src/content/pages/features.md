@@ -13,7 +13,7 @@ content_blocks:
     title: Build the products that users love
     description: Rethynk will completely alter old-school methods by automation and founder spirit.
     button:
-      link: /signup
+      link: /contact
       text: Talk to us
     image: /images/feature/feature-hero.png
     image_alt: Charts
@@ -29,7 +29,7 @@ content_blocks:
     title: Full-stack software Agency
     description: In today's fast changing world, only visually appealing and functional products stand out. Don't let your idea to be scraped out by poor execution.
     button:
-      link: /signup
+      link: /contact
       text: Talk to our team
     reversed: false
 
@@ -39,7 +39,7 @@ content_blocks:
     title: Change the world by traveling it
     description: Our custom-tailored business and executive international programs helps companies and individuals not only learn the trendy skills but also spent some nice time with their foreign counterparts.
     button:
-      link: /signup
+      link: /contact
       text: Talk to us
     reversed: true
 
@@ -49,7 +49,7 @@ content_blocks:
     title: Reimagining the education and startup building process
     description: Our newest brand called "PivotHouse" is a unique place to learn,practice, build network and try things that cant be done at university or school. It is only for those with clear goals for the future.
     button:
-      link: /signup
+      link: /contact
       text: Get notified when launched
     reversed: false
 

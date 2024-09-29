@@ -10,7 +10,7 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: global/signup
-    title: Create Account
+    title: Talk to us
     form:
       fullname:
         heading: Full Name
